@@ -6,6 +6,8 @@ div {
     background-color: red;
     flex-wrap: nowrap;
     overflow: auto;
+    justify-content: center;
+    align-items: center;
 }
 
 img {
